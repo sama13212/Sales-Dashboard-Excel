@@ -2,26 +2,47 @@
 
 ## Project Overview
 
-This project presents an interactive Excel dashboard designed to analyze sales performance across different product categories, regions, customer demographics, and payment methods.
-
-The dashboard enables decision-makers to monitor key business metrics and identify opportunities for improving sales performance and operational efficiency.
+This project presents an interactive Excel dashboard that analyzes sales performance across product categories, regions, customer demographics, and payment methods. The dashboard enables users to monitor key business metrics and supports data-driven decision-making.
 
 ---
 
-## Tools Used
+## Tools & Features Used
 
 - Microsoft Excel
+- Power Query (Data Cleaning)
+- Data Model (Relationships)
 - Pivot Tables
 - Pivot Charts
 - Slicers
 - Conditional Formatting
+- Dashboard Design
+
+---
+
+## Project Workflow
+
+1. Business Understanding
+2. Data Cleaning
+3. Data Preparation
+4. Data Modeling (Relationships)
+5. Pivot Tables
+6. Pivot Charts
+7. Interactive Dashboard
+8. Business Insights
+9. Recommendations
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)<img width="1476" height="566" alt="Dashborad (2)" src="https://github.com/user-attachments/assets/715768c4-7f50-40d0-b8dc-254d394e2c06" />
+![Dashboard](images/dashboard.png)<img width="1476" height="566" alt="Dashborad (2)" src="https://github.com/user-attachments/assets/6f517ebe-8b73-4759-9bae-3eb513e9943d" />
 
+
+---
+
+## Data Model
+
+The project uses Excel's **Data Model** to establish relationships between tables, enabling more efficient analysis and supporting scalable Pivot Tables without data duplication.
 
 ---
 
@@ -63,6 +84,6 @@ The dashboard enables decision-makers to monitor key business metrics and identi
 
 ## Files Included
 
-- Excel Dashboard
-- Executive Summary Report
-- Dashboard Screenshot
+- Excel Dashboard (.xlsx)
+- Executive Summary Report (.pdf)
+- Dashboard Screenshot (.png)
